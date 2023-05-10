@@ -1,2 +1,2 @@
 # Optimizing-Crop-Production
-In this repository, the prediction of various crops according to the weather
+In this repository, I analised the crop data set according to the weather forecasting .
